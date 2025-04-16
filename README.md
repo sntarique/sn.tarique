@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Saiyed Najibullah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me snts.2609@gmail.com
-
-<!---
-SNtarique/SNtarique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My passion lies in data science, web3 , and digital marketing. And I am eager to be skilled in data analysis and visualization, web3 development, and digital marketing strategies, and I will use these skills to create online solutions that make a difference.
